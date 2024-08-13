@@ -12,3 +12,5 @@ python-decouple
 requests
 speedtest-cli
 pymongo
+aiogram==2.23.1
+flask
